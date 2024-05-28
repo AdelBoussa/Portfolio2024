@@ -89,7 +89,7 @@ const Internships = () => {
                 </AccordionButton>
               </h2>
               <AccordionPanel pb={4}>
-                Still awaiting feedback...
+                <Image src="../public/inwitFeedback.png" alt="Kiuloper Feedback" />
               </AccordionPanel>
             </AccordionItem>
           </Accordion>
@@ -127,7 +127,7 @@ const Internships = () => {
                 </AccordionButton>
               </h2>
               <AccordionPanel pb={4}>
-                
+              Still awaiting feedback...
               </AccordionPanel>
             </AccordionItem>
           </Accordion>

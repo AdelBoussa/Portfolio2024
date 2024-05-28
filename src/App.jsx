@@ -17,7 +17,7 @@ function App() {
         <Nav />
         
         <Box as="section" minHeight="100vh" display="flex" flexDirection="column" justifyContent="center" alignItems="center">
-          <Avatar size='2xl' name='Adel Boussenane' src='../public/adel.jpg' />
+          <Avatar size='2xl' width={350} height={350} name='Adel Boussenane' src='../public/adel.jpg' />
           <Title level={1}>Adel Boussenane</Title>
           <Title level={3}>Fullstack Developer</Title>
         </Box>
